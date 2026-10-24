@@ -27,7 +27,7 @@ author:
   name             : "Junteng Liu"
   pronouns         : # example: "she/her"  
   bio              : "First-year PhD candidate at HKUST NLP Group, Hong Kong University of Science and Technology. Research on natural language processing and machine learning."
-  location         : "Hong Kong"
+  location         : # Location not provided in profile data
   employer         : "HKUST NLP Group, Hong Kong University of Science and Technology"
   uri              : # URL
   email            : "jliugi@connect.ust.hk"
